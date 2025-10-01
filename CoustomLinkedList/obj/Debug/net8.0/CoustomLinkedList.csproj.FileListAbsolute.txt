@@ -1,0 +1,11 @@
+D:\CSharp\Halal almshakl\CoustomLinkedList\bin\Debug\net8.0\CoustomLinkedList.deps.json
+D:\CSharp\Halal almshakl\CoustomLinkedList\bin\Debug\net8.0\CoustomLinkedList.dll
+D:\CSharp\Halal almshakl\CoustomLinkedList\bin\Debug\net8.0\CoustomLinkedList.pdb
+D:\CSharp\Halal almshakl\CoustomLinkedList\obj\Debug\net8.0\CoustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Halal almshakl\CoustomLinkedList\obj\Debug\net8.0\CoustomLinkedList.AssemblyInfoInputs.cache
+D:\CSharp\Halal almshakl\CoustomLinkedList\obj\Debug\net8.0\CoustomLinkedList.AssemblyInfo.cs
+D:\CSharp\Halal almshakl\CoustomLinkedList\obj\Debug\net8.0\CoustomLinkedList.csproj.CoreCompileInputs.cache
+D:\CSharp\Halal almshakl\CoustomLinkedList\obj\Debug\net8.0\CoustomLinkedList.dll
+D:\CSharp\Halal almshakl\CoustomLinkedList\obj\Debug\net8.0\refint\CoustomLinkedList.dll
+D:\CSharp\Halal almshakl\CoustomLinkedList\obj\Debug\net8.0\CoustomLinkedList.pdb
+D:\CSharp\Halal almshakl\CoustomLinkedList\obj\Debug\net8.0\ref\CoustomLinkedList.dll
