@@ -1,0 +1,4 @@
+D:\CSharp\Halal almshakl\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Halal almshakl\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+D:\CSharp\Halal almshakl\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+D:\CSharp\Halal almshakl\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
